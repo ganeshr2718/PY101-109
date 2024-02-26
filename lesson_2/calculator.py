@@ -1,3 +1,5 @@
+# Modification of the code
+
 def prompt(message):
     print(f"==> {message}")
 
